@@ -1,1 +1,26 @@
+title: "NinjaBlog"
+author: "Jack Locke"
+description: "Musings about robots, hacking, technology, futureism, philosophy, movies and more. <|>"
+
+twitter_username: "ninjajoe9"
+github_username: "ninjajoe9"
+linkedin_username: "josephrlocke"
+
+##########
+
 theme: minima
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+  
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
