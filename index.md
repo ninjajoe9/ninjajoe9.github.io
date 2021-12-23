@@ -1,6 +1,3 @@
 ## NinjaBlog
 
-
-### Post (Coming Soon!)
-
 <\|>
