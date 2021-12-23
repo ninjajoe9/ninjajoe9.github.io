@@ -1,5 +1,0 @@
-## NinjaBlog
-
-
-### Post (Coming Soon!)
-
