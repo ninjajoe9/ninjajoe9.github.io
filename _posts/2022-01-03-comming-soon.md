@@ -1,9 +1,9 @@
-Japanese---
+---
 title: "Coming Soon!!!"
 date: 2022-01-03
 ---
 
-## Greetings and welcome to the Ninja-Blog!
+### Greetings and welcome to the Ninja-Blog!
 
 The purpose of this blog is akin to a journal for me. I've never been able to get one to stick. Although I have had many sketchbooks, notebooks, online workspaces, and notes to myself that function in the same way, none of them ever lasted if I had any requirement to work on them. My 2022 annual theme is focus. So to that end, instead of writing a relatively free form but daily regimented letter to myself, I though I would write on specific subjects that are on my mind, and really take the opportunity to investigate and report on whatever topic interests me at the moment.
 
