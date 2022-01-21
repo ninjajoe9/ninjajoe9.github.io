@@ -8,7 +8,7 @@ linkedin_username: "josephrlocke"
 
 ##########
 
-theme: minima
+theme: jekyll-theme-hacker
 
 kramdown:
   syntax_highlighter_opts:
