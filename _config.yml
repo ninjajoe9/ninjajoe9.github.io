@@ -19,7 +19,7 @@ permalink: /:title/
 version: v1.2.0
 
 
-theme: minima
+theme: jekyll-theme-hacker
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
