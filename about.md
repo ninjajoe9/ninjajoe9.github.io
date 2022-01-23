@@ -8,8 +8,8 @@ Some information about Jack!
 
 ### More Information
 
-coming soon!!
+Hi I'm Jack. A lot of info about me is on my main github [README](https://github.com/ninjajoe9), so check it out! I may add more to this later...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jrlocke9@protonmail.com](mailto:jrlocke9@protonmail.com)
