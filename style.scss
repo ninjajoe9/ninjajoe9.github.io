@@ -20,7 +20,7 @@ html {
 body {
 	background: $darkGray;
   font: 18px/1.4 $courier;
-  color: $green;
+  color: $lightGray;
 }
 
 .container {
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $red;
+    color: $green;
   }
 }
 
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $darkGray;
+  color: $lightGray;
 }
 
 // Specify the color of the selection
