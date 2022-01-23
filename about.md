@@ -12,4 +12,4 @@ Hi I'm Jack. A lot of info about me is on my main github [README](https://github
 
 ### Contact me
 
-[jrlocke9@protonmail.com](mailto:jrlocke9@protonmail.com)
+I'll add an email at some point...
