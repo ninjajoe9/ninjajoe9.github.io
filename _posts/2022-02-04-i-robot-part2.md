@@ -3,7 +3,7 @@ title: "I, Robot?: Part 2"
 date: 2022-02-04
 ---
 
-This is a continuation of my [previous blog post]([https://ninjajoe9.github.io/i-robot/) that ran long so I elected to finish it later. If you don't feel like going back and reading that one first, I am examining how Isaac Asimiov's "I, Robot" written in the 1940's has some amazingly accurate predictions about the state of robots today, at least from an engineering standpoint. I'll dive right back in with my comments on the next chapter.
+This is a continuation of my [previous blog post](https://ninjajoe9.github.io/i-robot/) that ran long so I elected to finish it later. If you don't feel like going back and reading that one first, I am examining how Isaac Asimiov's "I, Robot" written in the 1940's has some amazingly accurate predictions about the state of robots today, at least from an engineering standpoint. I'll dive right back in with my comments on the next chapter.
 
 and again **SPOILER WARNING** if you intend to read the book.
 
