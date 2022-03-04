@@ -3,8 +3,7 @@ title: "Meta-learning and History"
 date: 2022-03-03
 ---
 
-#### TL;DR- 
-Learn a bit of the history of an idea to gain substantially deeper understating of the ideal itself, and apply it better to other domains. 
+**TL;DR-** Learn a bit of the history of an idea to gain substantially deeper understating of the ideal itself, and apply it better to other domains. 
 
 I think a lot about how to learn, how to learn things better, faster and more completely. Thats not a typo. If you know me you're aware that I recently changed careers and left my previous line of work to enroll in a three year Engineering Masters program that I am just about to wrap up this May. While I'm absolutely in love with this new career choice and excited to do it professionally in the near future, I suffer from a particularly upsetting condition... insatiable curiosity. It kills me! Even before I made the switch, I was always reading, picking up new hobbies, learning the languages of the next country into which I was about to travel, and just always interested in the next level deeper of how something worked. In conversation with friends I often exclaim in frustration "I just want to know all the things about all the things!!!"[^1] This is where I tie things back to meta-learning. Since the probability is somewhat high that I will live a normal human lifespan (stay tuned later for posts/rants on cyborgs and the future of life extension technology), about 80 years +/- 20, I have a rather long, but ultimately finite time to enjoy learning. Sadly, I understand I will never learn 'all the things'. So dedicating a non-insignificant amount of time to learning learning is a strategy I've been interested in to maximize this enjoyment.
 
@@ -31,7 +30,8 @@ Here is a (non-exhaustive) list of some of the Hacker history books I've read re
 - Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker - Kevin Mitnick , William L. Simon
 
 
-If you're unconvinced let me restate my point; While knowledge can be applied to multiple domains, the story behind why something was developed is often incredibly insightful to the nature of the topic itself.[^3] The aphorism, necessity is the mother of invention comes to mind, and understanding the necessity helps understand the invention. There is something about conceptualizing a topic from a different point of view that not only reinforces the concept giving you deeper understanding, but also the very change in approach itself yields a type of understanding that helps you understand 'other things about all the other things', in addition to the thing of interest itself.  Lateral thinking creates non hierarchal understanding which pays off exponentially instead of linearly when learning other topics in the future. <|>
+If you're unconvinced let me restate my point; While knowledge can be applied to multiple domains, the story behind why something was developed is often incredibly insightful to the nature of the topic itself.[^3] The aphorism, necessity is the mother of invention comes to mind, and understanding the necessity helps understand the invention. There is something about conceptualizing a topic from a different point of view that not only reinforces the concept giving you deeper understanding, but also the very change in approach itself yields a type of understanding that helps you understand 'other things about all the other things', in addition to the thing of interest itself.  Lateral thinking creates non hierarchal understanding which pays off exponentially instead of linearly when learning other topics in the future. <|
+
 ____
 
 #### 4 March 2022 addendum:
