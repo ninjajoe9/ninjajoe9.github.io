@@ -1,3 +1,0 @@
-## Previews
-
-If you were curious enough to find your way here, you've probably figured out this is where I keep my posts that aren't finished yet. At time of writing there is exactly 1 draft and I plan on posting it in the next couple days. But I've found that I keep having ideas for posts and a couple hours later I promptly forget them, so this is my solution. I'll probably have a bunch of half baked ideas which arent posted for that exact reason, so if you do find your way here, don't judge too harshly. :) 
