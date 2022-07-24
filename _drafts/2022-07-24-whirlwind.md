@@ -7,7 +7,7 @@ Wow....four months later... lets see all that has happened since then:
 - wrapped up 2 tough class projects
 - graduated (yay!)
 - got a job
-- finished the sak &#233;
+- finished the sak&#233;
 - traveled all overthe country for various work things (all awesome) 
 - Got my UAS pilots license (and played with a bunch of drones)
 - probably a lot more that I'm missing 
