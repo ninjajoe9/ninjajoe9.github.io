@@ -1,6 +1,6 @@
 ---
 title: "A Masters Degree and an Afternoon..."
-date: 203-04-07
+date: 2023-04-07
 ---
 
 This month serves two purposes, first, to update the next topic of the month (as usual), but also to write a blog on a recent project that I did because of some stuff my company is working on. This project involving AIS ship transmission subsequently led one of my bosses to ask I write up a little more thoroughly because it highlights some themes that are relevant to what we are doing, namely, that the tech we are developing isn't extraordinary, it's just deliberate. 
