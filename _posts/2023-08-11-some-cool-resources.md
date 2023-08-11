@@ -36,6 +36,7 @@ I am actually writing this post in Obsidian right now. It's a cross platform not
  [The Art of the Impossible](https://www.theartofimpossible.com/) by Stephen Kotler. 
  ![art_of_the_impossible_book](https://static.wixstatic.com/media/97921b_0c81934e1ad14740830b42f2ec3f0bd5~mv2.png/v1/fill/w_330,h_456,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AoI%20-%20Single%20Book%20Mockup%20Front%20View%20-%20Op.png)
  I've read one other Steven Kotler book before, Stealing Fire, about altered states of consciousness, and thought it was fascinating. The part that interested me the most was the concept of Flow states. This new book is almost entirely about how to consistently engaging in flow states for peak performance. Good read and hopefully something I can apply. 
----
 
-Well that's all for now. I'm not committing to one post per month anymore so hopefully I'll write more soon, but you'll hear from me when you hear from me. <|>
+<br>
+
+Well that's all for now. I'm not committing to one post per month anymore so hopefully I'll write more soon, but you'll hear from me when you hear from me. <\|>
