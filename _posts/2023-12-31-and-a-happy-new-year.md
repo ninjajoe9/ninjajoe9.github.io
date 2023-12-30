@@ -1,10 +1,10 @@
-Merry Christmas everyone!
+Merry Christmas everyone! (and a happy new year!)
 
-I haven’t written in a few months (and honestly don’t feel too bad about it) but thought I would write an end of year note as a way to set priorities for the year to come!
+I haven’t written in a few months (and honestly don’t feel too bad about it! but thought I would write an end of year note as a way to set priorities for the year to come!
 
 I would be remiss not to mention some of the last years projects and accomplishment and how they might inform next years. 
 
-Here was last years list from [[2023-01-13-a-year-later]] :
+Here was last years list from [2023-01-13-a-year-later](https://ninjajoe9.github.io/a-year-later/):
 - ROS
 - Calisthenics
 - ~~Japanese Language
@@ -38,6 +38,8 @@ On to this year! Just gonna list some stuff and clean it up later I'll know what
 - polyphasic sleep
 - time tracking
 - Amateur Radio 
+- MORE ROBOTS!!!
+- Getting stuff done
 
 That's all for now. On a completely unrelated note check out [this episode](https://youtu.be/Wgh8Gfs2S7M?si%253Dw1C_igpGcX96X_X-) of The Anthropocene Reviewed by John Green, and the [most recent episode](https://youtu.be/A1QWAJ8vWtA?si%253DRwn6TbYnXhQkB0as)) of the Modem Prometheus podcast. Finally, leave a Hot Chocolate out at the beginning of the new year. You never know who might need it! 
 
