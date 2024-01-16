@@ -1,16 +1,16 @@
 Merry Christmas everyone! (and a happy new year!)
 
-I haven’t written in a few months (and honestly don’t feel too bad about it! but thought I would write an end of year note as a way to set priorities for the year to come!
+I haven’t written in a few months (and honestly don’t feel too bad about it!) but thought I would write an end of year note as a way to set priorities for the year to come!
 
 I would be remiss not to mention some of the last years projects and accomplishment and how they might inform next years. 
 
 Here was last years list from [2023-01-13-a-year-later](https://ninjajoe9.github.io/a-year-later/):
 - ROS
 - Calisthenics
-- ~~Japanese Language
+- ~~Japanese Language~~
 - HAM Radio
-- ~~Writing
-- ~~Drawing
+- ~~Writing~~
+- ~~Drawing~~
 - Hacking
 
 If I added a strike through I did very little with it in 2023. ROS, Started strong but then Identified a few deficiencies, and despite committing hard for a few deliberate months, lost the taste and fell off. I would very much like to try at that again this year, but I need to put WAAY less pressure on myself. 
@@ -30,11 +30,11 @@ On to this year! Just gonna list some stuff and clean it up later I'll know what
 - Digitally Distributed Republic (blockchain for citizenship/equity/membership)
 - Pick up Art of Impossible again
 - Vailock 2.0 (in rust!)
-- Function Fitness
+- Functional Fitness
 - Japanese (including writing!)
 - Solitaire
 - Rust programming
-- Hacking platform
+- Universal Hacking platform
 - polyphasic sleep
 - time tracking
 - Amateur Radio 
