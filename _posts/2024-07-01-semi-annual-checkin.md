@@ -1,6 +1,6 @@
 ---
 title: "Semi-Annual checkin"
-date: 2023-08-11
+date: 2024-07-01
 ---
 
 Halfway through 2024 all ready. It's going too fast! This is only my second post this year. This is not to say I haven't done anything this year I just haven't shared it. Both work and my personal life have had a number of exciting events and I think my priorities are just focused inwardly. 

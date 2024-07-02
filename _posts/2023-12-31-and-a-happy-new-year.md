@@ -1,6 +1,6 @@
 ---
 title: "And a Happy New Year"
-date: 2024-12-31
+date: 2023-12-31
 ---
 
 Merry Christmas everyone! (and a happy new year!)
