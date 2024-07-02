@@ -1,3 +1,8 @@
+---
+title: "And a Happy New Year"
+date: 2023-12-31
+---
+
 Merry Christmas everyone! (and a happy new year!)
 
 I haven’t written in a few months (and honestly don’t feel too bad about it!) but thought I would write an end of year note as a way to set priorities for the year to come!
