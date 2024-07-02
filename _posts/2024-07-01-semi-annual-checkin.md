@@ -18,7 +18,7 @@ To name a few things I've Accomplished:
 
 So I'd say I've accomplished quite a bit. 
 
-looking back at my [And a Happy New Year]() post, there was still quite a bit I wanted to do. Some of these things don't make too much sense with the momentum I've picked up in other areas, but others aren't too far from being altered. 
+looking back at my [And a Happy New Year](https://ninjajoe9.github.io/and-a-happy-new-year/) post, there was still quite a bit I wanted to do. Some of these things don't make too much sense with the momentum I've picked up in other areas, but others aren't too far from being altered. 
 
 to refocus, here is a list of goals/projects for the next 6 months. 
 - Build a Personal Website
